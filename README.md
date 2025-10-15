@@ -1,4 +1,3 @@
-# expensesharingapp
 # Expense Sharing App (Spring Boot)
 
 This is a sample backend implementation (demo) for an Expense Sharing application (Splitwise-like) using:
